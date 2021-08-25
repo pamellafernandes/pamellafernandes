@@ -1,4 +1,4 @@
-## Hey! I'm Pamella Fernandes
+## Olá! Eu sou a Pamella Fernandes
 
 
 - 🔭 Hoje trabalho com back-end
