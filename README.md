@@ -4,7 +4,7 @@
 - 🔭 Today job with back-end
 - 🌱 Studying languages: C# and Java
 - 📫 Contact-me on e-mail: pamellafernandes117@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/pamellafernandes">
