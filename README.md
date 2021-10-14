@@ -5,11 +5,13 @@
 - 📫 **Contact-me on e-mail:** pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
 - <img alt="GIF" src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** she/her 👩🏻
 
+
 <div>
   <a href="https://github.com/pamellafernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=false&theme=midnight-purple&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafernandes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Pamella-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
