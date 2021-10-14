@@ -3,7 +3,7 @@
 - 🔭 **Today job with back-end**
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> **Studying languages:** C# and Java
 - 📫 **Contact-me on e-mail:** pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
-- <img alt="GIF" src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** she/her 👩🏻
+- <img alt="GIF" src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** she/her
 
 
 <div>
