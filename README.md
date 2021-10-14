@@ -1,15 +1,15 @@
-## Olá! Eu sou a Pamella Fernandes
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World! 
 
-
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando linguagens: C# e Java
-- 📫 Contate-me no e-mail: pamellafernandes117@gmail.com
+- 👩🏻‍💻 I´m Pamella Fernandes
+- 🔭 Today job with back-end
+- 🌱 Studying languages: C# and Java
+- 📫 Contact-me on e-mail: pamellafernandes117@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/pamellafernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafernandes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafernandes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
