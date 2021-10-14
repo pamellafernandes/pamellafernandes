@@ -1,5 +1,5 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello World! 
-- 👩🏻‍💻 I´m Pamella Fernandes
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I´m Pamella Fernandes
 - 🔭 Today job with back-end
 - 🌱 Studying languages: C# and Java
 - 📫 Contact-me on e-mail: pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
