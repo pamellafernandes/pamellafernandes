@@ -1,8 +1,8 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Hello World!** 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> **I´m Pamella Fernandes**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> **Today job with back-end**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> **Studying languages:** C# and Java
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="17px">**Contact-me on e-mail:** pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">  **Hello World!** 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="36px"> **I´m Pamella Fernandes**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="33px"> **Today job with back-end**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px"> **Studying languages:** C# and Java
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">**Contact-me on e-mail:** pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
 - <img alt="GIF" src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** she/her
 
 
