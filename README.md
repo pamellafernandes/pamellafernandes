@@ -30,6 +30,7 @@
   <div>
     <a href = "mailto:pamellafernandes117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://open.spotify.com/user/3c38wec5qkawxnulsesie3q3z"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"</a>
   </div>
   
  ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
