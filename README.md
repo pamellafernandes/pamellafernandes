@@ -1,7 +1,7 @@
 ### <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">   Hello World! 
 - <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Developer.gif" width="36px"> **I´m Pamella Fernandes**
 - <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Designer.gif" width="33px"> **Today job with Web Developer**
-- <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px"> **Studying languages:** React and Javascript
+- <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px"> **Studying languages:** ReactJS and Javascript
 - <img src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20"> **Contact-me on e-mail:** pamellafernandes117@gmail.com or pamellafernandes119@outlook.com
 - <img alt="GIF" src="https://github.com/pamellafernandes/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** she/her
 
