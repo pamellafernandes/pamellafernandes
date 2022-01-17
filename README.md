@@ -28,10 +28,10 @@
   
   <div>
       <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=422875" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=d60d0d" /></a>
 
   <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=422875&link=https://www.linkedin.com/in/pamella-fernandes-b83392196/"></a>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0d43d6&link=https://www.linkedin.com/in/pamella-fernandes-b83392196/"></a>
     
   </div>
   
