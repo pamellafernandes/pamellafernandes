@@ -27,8 +27,13 @@
   ##
   
   <div>
-    <a href = "mailto:pamellafernandes117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=422875" /></a>
+
+  <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=422875&link=https://www.linkedin.com/in/pamella-fernandes-b83392196/"></a>
+    
+  </div>
   
  ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
   
