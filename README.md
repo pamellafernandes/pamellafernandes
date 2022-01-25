@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
- ⚡ Habilidades: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, ReactJS. </strong> 
+ ⚡ skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, ReactJS. </strong> 
 </p> 
 
 <p align="left">
- 🖥️ Ferramentas: <strong>VSCode, Notion, Git, GitHub. </strong> 
+ 🖥️ tools: <strong>VSCode, Notion, Git, GitHub. </strong> 
 </p> 
  
 <p align="left">
- 📧 Você pode me encontar aqui: ⤵️
+ 📧 You can find me here: ⤵️
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
 
   <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=https://www.linkedin.com/in/sophiagp" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3&link=https://www.linkedin.com/in/pamella-fernandes-b83392196/" /></a>
 
 </p>
 
