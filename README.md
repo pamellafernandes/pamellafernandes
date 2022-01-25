@@ -5,8 +5,12 @@
 </p>
 
 <p align="left">
- ⚡ Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, ReactJS. </strong> 
+ ⚡ Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript. </strong> 
 </p> 
+
+<p align="left">
+ 📚 Studing: <strong>ReactJS and English.</strong>
+</p>
 
 <p align="left">
  🖥️ Tools: <strong>VSCode, Notion, Git, GitHub. </strong> 
