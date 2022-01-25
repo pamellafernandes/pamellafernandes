@@ -30,8 +30,8 @@
   <a href="https://www.instagram.com/ipamellafernandes" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=0061C3&link=https://www.instagram.com/ipamellafernandes"/>
    
-  <a href=https://open.spotify.com/user/PamellaFernandes alt="Spotify">
-   <img src="https://img.shields.io/badge/Spotify-1C1C1C?&style=for-the-badge&logo=spotify&logoColor=0061C3&link=https://open.spotify.com/user/PamellaFernandes"/>
+  <a href=https://open.spotify.com/user/3c38wec5qkawxnulsesie3q3z alt="Spotify">
+   <img src="https://img.shields.io/badge/Spotify-1C1C1C?&style=for-the-badge&logo=spotify&logoColor=0061C3&link=https://open.spotify.com/user/3c38wec5qkawxnulsesie3q3z"/>
    
 </p>
 
