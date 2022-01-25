@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left">
- 📚 Studing: <strong>ReactJS and English.</strong>
+ 📚 Studying: <strong>ReactJS and English.</strong>
 </p>
 
 <p align="left">
