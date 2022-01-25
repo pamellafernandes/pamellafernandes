@@ -9,7 +9,7 @@
 </p> 
 
 <p align="left">
- 🖥️ Ferramentas: <strong>VSCode, Notion, Git, GitHub, Discord. </strong> 
+ 🖥️ Ferramentas: <strong>VSCode, Notion, Git, GitHub. </strong> 
 </p> 
  
 <p align="left">
