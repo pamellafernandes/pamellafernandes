@@ -1,7 +1,7 @@
 <img src="https://github.com/Sophia-15/Sophia-15/blob/main/images/eu.svg" width="180px" align="right" alt="Me coding">
  
 <p align="left"> 
-   🌎 Hello people, my name is Pamella and i am <strong>Web Developer</strong>
+   🌎 Hello people, my name is Pamella and i am <strong>Web Developer.</strong>
 </p>
 
 <p align="left">
