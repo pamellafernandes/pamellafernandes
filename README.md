@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
- ⚡ skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, ReactJS. </strong> 
+ ⚡ Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, ReactJS. </strong> 
 </p> 
 
 <p align="left">
- 🖥️ tools: <strong>VSCode, Notion, Git, GitHub. </strong> 
+ 🖥️ Tools: <strong>VSCode, Notion, Git, GitHub. </strong> 
 </p> 
  
 <p align="left">
