@@ -17,8 +17,13 @@
 </p> 
  
 <p align="left">
+ 💼 Works: Today work at <strong> CPQi Group.</strong>
+</p>
+ 
+<p align="left">
  📧 You can find me here: ⤵️
 </p>
+
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
