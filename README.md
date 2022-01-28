@@ -5,6 +5,12 @@
 </p>
 
 <p align="left">
+  👧🏻 About Me: Passionate about web development technologies. Currently focused on Javascript and ReactJS
+               I am self-taught, proactive, communicative. Currently, I am studying Systems Analysis and Development at Estácio do Ceará, my goal is to be a specialist in                      Systems Development, but precisely systems that involve web.
+               <strong>Lover both with classic anime and some current ones, as well as with music. I'm a gamer in my spare time, but I like both retro and current ones.<strong>
+</p>
+ 
+<p align="left">
  ⚡ Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript. </strong> 
 </p> 
 
