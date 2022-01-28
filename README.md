@@ -25,7 +25,7 @@
 </p>
  
 <p align="left">
- 📧 You can find me here: ⤵️
+ 📧 <strong>You can find me here:</strong> ⤵️
 </p>
 
 
