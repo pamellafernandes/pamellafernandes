@@ -21,7 +21,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: Today work at <strong> CPQi Group.</strong>
+ 💼 Works: <strong>Today work at CPQi Group.</strong>
 </p>
  
 <p align="left">
