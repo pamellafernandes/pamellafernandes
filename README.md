@@ -1,4 +1,4 @@
-<img src="https://github.com/Sophia-15/Sophia-15/blob/main/images/eu.svg" width="190px" align="right" alt="Me coding">
+<img src="https://github.com/Sophia-15/Sophia-15/blob/main/images/sophia.svg" width="200px" align="right" alt="Me coding">
  
 <p align="left"> 
    🌎 Hello people, my name is Pamella and i'm <strong>Web Developer.</strong>
