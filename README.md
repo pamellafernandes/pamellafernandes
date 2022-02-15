@@ -1,4 +1,4 @@
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="210px" align="right" alt="Me coding">
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="220px" align="right" alt="Me coding">
  
 <p align="left"> 
    🌎 Hello people, my name is Pamella and i'm <strong>Web Developer.</strong>
