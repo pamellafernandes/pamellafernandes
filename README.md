@@ -13,7 +13,7 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>ReactJS and React Native.</strong>
+ 📚 Studying: <strong>ReactJS.</strong>
 </p>
 
 <p align="left">
