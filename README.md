@@ -9,7 +9,7 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript. </strong> 
+ ⚡ Hard Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Javascript, SQL. </strong> 
 </p> 
 
 <p align="left">
