@@ -28,7 +28,8 @@
  📧 <strong>You can find me here:</strong> ⤵️
 </p>
 
-
+<div>
+ 
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
@@ -41,10 +42,10 @@
    
   <a href="https://open.spotify.com/user/3c38wec5qkawxnulsesie3q3z" alt="Spotify">
   <img src="https://img.shields.io/badge/Spotify-1C1C1C?&style=for-the-badge&logo=spotify&logoColor=0061C3"/></a>
-   
-
-   
 </p>
+ 
+</div>
+
 
 <br />
 <br />
