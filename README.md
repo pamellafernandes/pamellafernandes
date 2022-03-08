@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>VSCode, Notion, Expo, Git, GitHub. </strong> 
+ 🖥️ Tools: <strong>Expo, Figma, Git, GitHub, Notion, VSCode. </strong> 
 </p> 
  
 <p align="left">
