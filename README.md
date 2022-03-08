@@ -1,4 +1,4 @@
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="225px" align="right" alt="Me coding">
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="230px" align="right" alt="Developer">
  
 <p align="left"> 
  🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Web Developer.</strong>
@@ -13,7 +13,7 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>NodeJS, ReactJS and React Native.</strong>
+ 📚 Studying: <strong>ReactJS and React Native.</strong>
 </p>
 
 <p align="left">
@@ -56,9 +56,9 @@
 
 
 <p align="center" >
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="pamellafernandes" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="pamellafernandes" />
 </p>
 
 
