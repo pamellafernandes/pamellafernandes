@@ -9,11 +9,11 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Blazor, Javascript, SQL. </strong> 
+ ⚡ Hard Skills: <strong>HTML5, CSS3, Sass, Bootstrap, Blazor, Javascript. </strong> 
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>ReactJS , Typescript and React Native.</strong>
+ 📚 Studying: <strong>ReactJS, React Native, Typescript and Styled Components, SQL.</strong>
 </p>
 
 <p align="left">
