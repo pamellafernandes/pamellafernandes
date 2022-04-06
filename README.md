@@ -53,13 +53,9 @@
 <br /> 
 <br />
 
-
-
-<p align="center" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="pamellafernandes" />
-</p>
+     
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff) &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamellafernandes&layout=demo&theme=0061C3&bg_color=181818&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
