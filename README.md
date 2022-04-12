@@ -21,7 +21,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: <strong>Today work at CPQi Group.</strong>
+ 💼 Works: <strong>Today work at CPQi Group and Vify</strong>
 </p>
  
 <p align="left">
