@@ -42,6 +42,8 @@
    
   <a href="https://open.spotify.com/user/3c38wec5qkawxnulsesie3q3z" alt="Spotify">
   <img src="https://img.shields.io/badge/Spotify-1C1C1C?&style=for-the-badge&logo=spotify&logoColor=0061C3"/></a>
+  <a href="https://www.twitch.tv/ipamellafernandes" alt="Twitch">
+  <img src="https://img.shields.io/badge/Twitch-1C1C1C?&style=for-the-badge&logo=twitch&logoColor=0061C3"/></a>
 </p>
  
 </div>
