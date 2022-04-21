@@ -63,8 +63,9 @@
   
  ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
   
-
- <h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/pamellafernandes/count.svg"/>
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/pamellafernandes/count.svg"/>
 </p>
+</div>
