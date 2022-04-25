@@ -13,7 +13,7 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>ReactJS, React Native, <br> Typescript, Styled Components, Axios.</strong>
+ 📚 Studying: <strong>ReactJS, React Native, <br> Typescript, Styled Components, NextJS, Axios.</strong>
 </p>
 
 <p align="left">
