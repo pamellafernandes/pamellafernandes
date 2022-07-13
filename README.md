@@ -9,7 +9,7 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>Azure, HTML5, CSS3, SCSS, Bootstrap, Blazor, ReactJS, Typescript, Styled Components. </strong> 
+ ⚡ Hard Skills: <strong>HTML5, CSS3, SCSS, Bootstrap, Blazor, ReactJS, Typescript, Styled Components. </strong> 
 </p> 
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>Figma, Git, GitHub, Notion, VSCode. </strong> 
+ 🖥️ Tools: <strong>Figma, Azure, Trello, Git, GitHub, Notion, VSCode. </strong> 
 </p> 
  
 <p align="left">
