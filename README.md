@@ -13,7 +13,7 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>Axios, NextJS, React Native, TailwindCSS.</strong>
+ 📚 Studying: <strong>Axios, Firebase, NextJS, React Native, TailwindCSS.</strong>
 </p>
 
 <p align="left">
