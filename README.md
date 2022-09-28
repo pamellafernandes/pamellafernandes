@@ -9,15 +9,15 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>Axios, HTML5, CSS3, SCSS, Bootstrap, Blazor, ReactJS, Typescript, Styled Components. </strong> 
+ ⚡ Hard Skills: <strong>Axios, HTML5, CSS3, SCSS, ReactJS, React Native, Typescript, Styled Components. </strong> 
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>Firebase, NextJS, React Native, TailwindCSS.</strong>
+ 📚 Studying: <strong>Firebase, NextJS, TailwindCSS.</strong>
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>Figma, Azure, Trello, Git, GitHub, Notion, VSCode. </strong> 
+ 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode. </strong> 
 </p> 
  
 <p align="left">
