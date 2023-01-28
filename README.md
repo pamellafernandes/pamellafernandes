@@ -36,9 +36,6 @@
  
   <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
-   
-  <a href="https://www.twitch.tv/ipamellafernandes" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-1C1C1C?&style=for-the-badge&logo=twitch&logoColor=0061C3"/></a>
 </p>
  
 </div>
