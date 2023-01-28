@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode. </strong> 
+ 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode, Trello </strong> 
 </p> 
  
 <p align="left">
