@@ -9,7 +9,7 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>Axios, HTML5, CSS3, SCSS, ReactJS, React Native, Typescript, Styled Components. </strong> 
+ ⚡ Hard Skills: <strong>Axios, HTML5, CSS3, SCSS, ReactJS, React Native, Typescript, Styled Components, Postman. </strong> 
 </p> 
 
 <p align="left">
