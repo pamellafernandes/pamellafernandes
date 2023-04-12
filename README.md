@@ -13,11 +13,11 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>Firebase, NextJS, TailwindCSS, NodeJS</strong>
+ 📚 Studying: <strong>Firebase, NextJS, TailwindCSS, NodeJS.</strong>
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode, Trello </strong> 
+ 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode, Trello. </strong> 
 </p> 
  
 <p align="left">
