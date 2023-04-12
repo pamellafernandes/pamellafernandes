@@ -13,7 +13,7 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>Firebase, NextJS, TailwindCSS.</strong>
+ 📚 Studying: <strong>Firebase, NextJS, TailwindCSS, NodeJS</strong>
 </p>
 
 <p align="left">
