@@ -1,7 +1,7 @@
 <img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="265px" align="right" alt="Developer">
  
 <p align="left"> 
- 🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Frontend Developer.</strong>
+ 🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Software Developer.</strong>
 </p>
 
 <p align="left">
