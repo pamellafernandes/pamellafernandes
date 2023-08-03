@@ -3,7 +3,7 @@
  <br/>
  
 <p align="left" width=25> 
- 🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Software Developer.</strong>
+ 🌎 Hello people, my name is Pamella and i'm <strong>Software Developer.</strong>
 </p>
 
 <p align="left">
