@@ -1,4 +1,6 @@
 <img width="370px" align="right" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif" alt="Developer"/>
+
+ <br/>
  
 <p align="left"> 
  🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Software Developer.</strong>
