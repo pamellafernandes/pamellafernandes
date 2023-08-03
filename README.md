@@ -34,14 +34,17 @@
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-010E24?style=for-the-badge&logo=Gmail&logoColor=EC048C" /></a>
  
-  <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
+  <a href="https://github.com/pamellafernandes" alt="Github">
+   <img src="https://img.shields.io/badge/Github-010E24?style=for-the-badge&logo=github&logoColor=EC048C"></a>
+
+
+   <a href="https://www.github.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-010E24?style=for-the-badge&logo=linkedin&logoColor=EC048C"></a>
 </p>
  
 </div>
 
 <br />
-
 
 <p align="lef">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=EC048C&bg_color=010E24&text_color=FFF" />
