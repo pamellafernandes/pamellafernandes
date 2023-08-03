@@ -1,4 +1,4 @@
-<img width="370px" align="right" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif" alt="Developer"/>
+<img width="50%" align="right" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif" alt="Developer"/>
 
  <br/>
  
