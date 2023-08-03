@@ -1,4 +1,4 @@
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="290px" align="right" alt="Developer">
+<img width="480px" align="right" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif" alt="Developer"/>
  
 <p align="left"> 
  🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Software Developer.</strong>
@@ -23,7 +23,7 @@
 <p align="left">
  💼 Works: <strong>Today work at Wiipo.</strong>
 </p>
- 
+
 <p align="left">
  📧 <strong>You can find me here:</strong> ⤵️
 </p>
@@ -32,37 +32,19 @@
  
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-010E24?style=for-the-badge&logo=Gmail&logoColor=EC048C" /></a>
  
   <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
+   <img src="https://img.shields.io/badge/LinkedIn-010E24?style=for-the-badge&logo=linkedin&logoColor=EC048C"></a>
 </p>
  
 </div>
 
-
-<br />
-<br />
-<br /> 
-<br /> 
 <br />
 
 
-
-
-<img width="100%" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
-
-
-<p align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
+<p align="lef">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=EC048C&bg_color=010E24&text_color=FFF" />
 </p>
 
-  
-![snake-gif](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
-  
-<div align="center">
-<p>Total de visitas no perfil:</p>
-<p>
-    <img src="https://profile-counter.glitch.me/pamellafernandes/count.svg"/>
-</p>
-</div>
+
