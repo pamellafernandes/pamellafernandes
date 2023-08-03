@@ -1,4 +1,4 @@
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="265px" align="right" alt="Developer">
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="290px" align="right" alt="Developer">
  
 <p align="left"> 
  🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Software Developer.</strong>
@@ -49,14 +49,14 @@
 
 
 
-<p align="center" >
+
+<img width="100%" src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
+
+
+<p align="center">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="pamellafernandes" />
 </p>
 
-
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
   
  ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
   
