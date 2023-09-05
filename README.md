@@ -40,7 +40,7 @@
    <img src="https://img.shields.io/badge/Github-010E24?style=for-the-badge&logo=github&logoColor=EC048C"></a>
 
 
-   <a href="https://www.github.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/devpamellafernandes/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-010E24?style=for-the-badge&logo=linkedin&logoColor=EC048C"></a>
 </p>
  
