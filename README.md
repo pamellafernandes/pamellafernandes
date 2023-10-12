@@ -49,7 +49,7 @@
 <br />
 
 <p align="left">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=EC048C&bg_color=010E24&text_color=FFF" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=EC048C&bg_color=010E24&text_color=FFF" />
 </p>
 
 
