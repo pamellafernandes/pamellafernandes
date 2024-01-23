@@ -34,14 +34,14 @@
  
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-010E24?style=for-the-badge&logo=Gmail&logoColor=EC048C" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-07122E?style=for-the-badge&logo=Gmail&logoColor=F544FC" /></a>
  
   <a href="https://github.com/pamellafernandes" alt="Github">
-   <img src="https://img.shields.io/badge/Github-010E24?style=for-the-badge&logo=github&logoColor=EC048C"></a>
+   <img src="https://img.shields.io/badge/Github-07122E?style=for-the-badge&logo=github&logoColor=F544FC"></a>
 
 
    <a href="https://www.linkedin.com/in/devpamellafernandes/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-010E24?style=for-the-badge&logo=linkedin&logoColor=EC048C"></a>
+   <img src="https://img.shields.io/badge/LinkedIn-07122E?style=for-the-badge&logo=linkedin&logoColor=F544FC"></a>
 </p>
  
 </div>
@@ -49,7 +49,7 @@
 <br />
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=EC048C&bg_color=010E24&text_color=FFF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&icon_color=F544FC&bg_color=010E24&text_color=FFF" />
 </p>
 
 
