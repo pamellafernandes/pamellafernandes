@@ -23,7 +23,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: <strong>Today work at @wiipobr.</strong>
+ 💼 Works: <strong>Today work at <a href="https://github.com/wiipobr">Wiipo</a>.</strong>
 </p>
 
 <p align="left">
