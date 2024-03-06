@@ -23,7 +23,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: <strong>Today work at Wiipo.</strong>
+ 💼 Works: <strong>Today work at @Wiipo.</strong>
 </p>
 
 <p align="left">
