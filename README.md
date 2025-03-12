@@ -33,7 +33,7 @@
 <div>
  
 <p align="left">
-  <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes117@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-07122E?style=for-the-badge&logo=Gmail&logoColor=F544FC" /></a>
  
   <a href="https://github.com/pamellafernandes" alt="Github">
