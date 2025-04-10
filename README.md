@@ -34,15 +34,15 @@
  
 <p align="left">
   <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes117@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-07122E?style=for-the-badge&logo=Gmail&logoColor=F544FC" /></a>
- 
+    <img src="https://img.shields.io/badge/-Gmail-07122E?style=for-the-badge&logo=gmail&logoColor=F544FC" /></a>
+
   <a href="https://github.com/pamellafernandes" alt="Github">
-   <img src="https://img.shields.io/badge/Github-07122E?style=for-the-badge&logo=github&logoColor=F544FC"></a>
+    <img src="https://img.shields.io/badge/Github-07122E?style=for-the-badge&logo=github&logoColor=F544FC" /></a>
 
-
-   <a href="https://www.linkedin.com/in/devpamellafernandes/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-07122E?style=for-the-badge&logo=linkedin&logoColor=F544FC"></a>
+  <a href="https://www.linkedin.com/in/devpamellafernandes/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-07122E?style=for-the-badge&logo=linkedin&logoColor=F544FC" /></a>
 </p>
+
  
 </div>
 
