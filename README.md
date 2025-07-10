@@ -23,7 +23,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: <strong></strong>
+ 💼 Works: <strong>Freelancer</strong>
 </p>
 
 <p align="left">
