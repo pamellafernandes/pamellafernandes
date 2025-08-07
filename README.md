@@ -23,7 +23,7 @@
 </p> 
  
 <p align="left">
- 💼 Works: <strong>Freelancer</strong>
+ 💼 Work: <strong>Blite Tecnologia</strong>
 </p>
 
 <p align="left">
