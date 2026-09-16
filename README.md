@@ -23,7 +23,7 @@
 </p> 
  
 <p align="left">
- 💼 Work: <strong>Blite Tecnologia</strong>
+ 💼 Work: <strong>Blite Tecnologia (Localiza&Co)</strong>
 </p>
 
 <p align="left">
