@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
- 🖥️ Tools: <strong>Figma, Jira, Git, GitHub, Notion, VSCode, Trello. </strong> 
+ 🖥️ Tools: <strong> Git, GitHub, VSCode, Cursor. </strong> 
 </p> 
  
 <p align="left">
