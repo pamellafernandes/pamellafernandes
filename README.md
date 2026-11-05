@@ -15,10 +15,6 @@
 </p> 
 
 <p align="left">
- 📚 Studying: <strong>NextJS, NodeJS.</strong>
-</p>
-
-<p align="left">
  🖥️ Tools: <strong> Git, GitHub, VSCode, Cursor. </strong> 
 </p> 
  
