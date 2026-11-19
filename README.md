@@ -11,7 +11,7 @@
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>HTML5, CSS3, SCSS, ReactJS, React Native, TypeScript, Styled Components, API Rest. </strong> 
+ ⚡ Hard Skills: <strong>HTML5, CSS3, SCSS, ReactJS, React Native, TypeScript, Styled Components, API Rest, Microfrontends, AWS, Azure DevOps. </strong> 
 </p> 
 
 <p align="left">
