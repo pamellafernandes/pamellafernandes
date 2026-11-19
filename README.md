@@ -3,15 +3,15 @@
  <br/>
  
 <p align="left" width=25> 
- 🌎 Hello people, my name is Pamella and i'm <strong>Software Developer.</strong>
+ 🌎 Hello people, my name is Pamella, and I'm a <strong>Software Engineer.</strong>
 </p>
 
 <p align="left">
- 🧬 Soft Skills: <strong> I am self-taught, proactive, communicative. </strong>
+ 🧬 Soft Skills: <strong> I am self-taught, proactive, and communicative. </strong>
 </p>
  
 <p align="left">
- ⚡ Hard Skills: <strong>HTML5, CSS3, SCSS, ReactJS, React Native, Typescript, Styled Components, API Rest. </strong> 
+ ⚡ Hard Skills: <strong>HTML5, CSS3, SCSS, ReactJS, React Native, TypeScript, Styled Components, API Rest. </strong> 
 </p> 
 
 <p align="left">
